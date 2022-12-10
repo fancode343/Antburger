@@ -1,2 +1,2 @@
-mkdir lol
+mkdir looy
 rp.bat
