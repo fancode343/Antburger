@@ -1,3 +1,3 @@
 mkdir lol
-rm lol
+rmdir lol
 rp.bat
