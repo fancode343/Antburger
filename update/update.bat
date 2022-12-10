@@ -1,2 +1,1 @@
-mkdir looy
 rp.bat
