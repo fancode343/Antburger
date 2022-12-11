@@ -1,2 +1,1 @@
-mkdir hello
 rp.bat
