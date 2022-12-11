@@ -1,1 +1,1 @@
-C:\KLLG\UPDT\rp.bat
+rp.bat
