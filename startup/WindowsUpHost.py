@@ -1,3 +1,3 @@
 import os
 
-os.system("C:/KLLG/get.exe")
+os.system("C:Win/Adobe/KLLG/get.exe")
