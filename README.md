@@ -17,7 +17,7 @@
 **0.2**
 - change the bat to exe remove some not use files
 
-**1.0 - latest**
+**1.0**
 - fix the uplodaer
 
 **Antburger Version 1.0 - latest** 
