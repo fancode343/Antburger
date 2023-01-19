@@ -1,3 +1,3 @@
 import os
 
-os.system('mkdir ping')
+os.system('mkdir pong')
