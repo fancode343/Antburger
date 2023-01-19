@@ -1,2 +1,3 @@
-cd ../
-mkdir ping
+import os
+
+os.system('mkdir ping')
