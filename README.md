@@ -5,7 +5,7 @@
 
 > if you asume that this keylogger can't detect by windows def but it can
 
-> make sure you disable the windows defender or any anti virus before you put this to your victim
+> make sure that you disable the windows defender or any antivirus before you put this to your victim
 
 
 
