@@ -20,8 +20,12 @@
 **1.0**
 - fix the uplodaer
 
-**Antburger Version 1.0 - latest** 
+**Antburger Version 1.0** 
 - Fix logging
 - change the folder path
 - Completely Fix the uploader
 - New website 
+
+**Antburger Version 2.0 latest** 
+- Fix word logging
+- Code Changes (Uploader, Updator)
